@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">- pip install -r requirements.txt<br>- Start main.py</h3>
+<h3 align="left">- pip install -r requirements.txt<br>- Start main.py<br> GET LATEST UPDATE OF CHROME</h3>
 
 ###
 
